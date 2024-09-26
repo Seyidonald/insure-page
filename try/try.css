@@ -1,0 +1,98 @@
+*{
+    text-decoration: none !important;
+}
+
+.herobg {
+background-image: url("https://unsplash.com/photos/OTnE6TgxVCM/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NzJ8fGlwaG9uZXxlbnwwfHx8fDE3MjYyODA2NjZ8MA&force=true&w=2400");
+min-height: 80vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-bottom: 10px;
+}
+
+p {
+    letter-spacing: .2rem;
+}
+
+.herobg-1{
+background-image: url("https://images.unsplash.com/photo-1577895202579-7280306572c4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGklMjBwaG9uZSUyMDExJTIwcHJvfGVufDB8fDB8fHww");
+min-height: 80vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-bottom: 10px;
+}
+
+.herobg-2{
+    background-image: url("https://images.unsplash.com/photo-1662731340473-0a29611314b2?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    min-height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    }
+
+    .herobg-3-0{
+        background-image: linear-gradient(rgb(160, 208, 247), #fff);
+        min-height: 100vh;
+        padding: 10px;
+        background-position: center;
+        background-repeat: no-repeat;
+      
+        
+    }
+
+     .image-wrapper img{
+        width: 90%;
+        height: 70vh;
+        margin-top: 10px;
+     }
+
+    .style{
+        font-style: italic;
+        color: rgb(26, 26, 245);
+        font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif'
+    }
+
+   .herobg-3-1{
+    background-image: linear-gradient(rgb(246, 247, 248), #fff);
+    min-height: 100vh;
+   }
+    
+   
+
+
+    .image-wrapper1 img{
+        width: 90%;
+        height: 70vh;
+        margin-top: 10px;
+    }
+
+    .herobg-3-2{
+        background-image: linear-gradient(rgb(246, 247, 248), #fff);
+        min-height: 100vh;
+    }
+
+    .image-wrapper2 img{
+        width: 90%;
+        height: 70vh;
+        margin-top: 10px;
+    }
+
+    .herobg-3-3{
+        background-image: linear-gradient(rgb(246, 247, 248), #fff);
+        min-height: 100vh;
+    }
+
+    .image-wrapper3 img{
+        width: 90%;
+        height: 70vh;
+        margin-top: 10px;
+    }
+
+    .footer{
+        background-image: linear-gradient(rgb(235, 244, 253), #fff);
+        display: flex;
+        justify-content: space-between;
+    }
